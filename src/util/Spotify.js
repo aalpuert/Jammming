@@ -1,5 +1,6 @@
 let accessToken = '';
 //HIDE CLIENTID ON GITHUB
+//Obtain clientID at https://developer.spotify.com/dashboard/applications 
 const clientId = '';
 const redirectUri = 'http://localhost:3000/';
 
