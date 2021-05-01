@@ -12,7 +12,7 @@
     "merge": "^1.2.1",
     "randomatic": "^3.1.1",
     "react": "^16.14.0",
-    "react-dev-utils": "^9.1.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.14.0",
     "react-scripts": "^3.4.4",
     "sshpk": "^1.16.1",
